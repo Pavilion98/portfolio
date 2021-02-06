@@ -27,7 +27,7 @@ body * {
 }
 
 a {
-    color: #000;
+    color: #17a2b8;
     text-decoration: none;
 }
 
@@ -207,62 +207,7 @@ h6 {font-size: 16px;}
     margin-left: 5px;
 }
 
-/* .left-column {
-    grid-area: left-column;
-    padding: 50px 0;
-    margin-top: 2.5rem;;
 
-} */
-
-
-
-/* #theme-option-wrapper {
-    display: flex;
-    justify-content: center;
-}
-
-.theme-dot {
-    background-color: #24292e;
-    height: 30px;
-    width: 30px;
-    border-radius: 50%;
-    border: 2px solid var(--themeDotBorder);
-    margin: 5px;
-
-    -webkit-box-shadow: -1px 1px 3px -1px rgba(0,0,0,0.75);
-    -moz-box-shadow: -1px 1px 3px -1px rgba(0,0,0,0.75);
-    box-shadow: -1px 1px 3px -1px rgba(0,0,0,0.75);
-
-    cursor: pointer;
-}
-
-.theme-dot:hover {
-    border-width: 4px;
-}
-
-#light-mode {
-    background-color: #fff;
-}
-
-#blue-mode {
-    background-color: #192734;
-}
-
-#green-mode {
-    background-color: #78866b;
-}
-
-#purple-mode {
-    background-color: #7E4C74;
-} */
-
-
-/* #settings-note {
-    font-size: 12px;
-    color: #fff;
-    font-style: italic;
-    text-align: center;
-} */
 
 
 .right-column {
