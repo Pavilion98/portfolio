@@ -1,8 +1,8 @@
 var box = document.querySelector(".main-menu");
+var bars = document.querySelector('.menu-btn');
 
-document.querySelector('.menu-btn').addEventListener('click', () => {
+bars.addEventListener('click', () => {
     box.classList.toggle('show');
-   
 });
 
 // window.addEventListener('mouseup', function(event) {

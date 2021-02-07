@@ -50,12 +50,11 @@ h5 {font-size: 20px;}
 h6 {font-size: 16px;}
 
 
-
-
 .s1 {
     background-color: var(--primary-color);
     border-bottom: 1px solid var(--border-color);
     overflow: hidden;
+    
     
     
 }
@@ -70,6 +69,8 @@ h6 {font-size: 16px;}
     width: 1200px;
     margin: 0 auto;
 }
+
+
 
 /* Nav Bar */
 .navbar {
@@ -119,7 +120,7 @@ h6 {font-size: 16px;}
 
 /* Introduction Section */
 
-#home-section{
+ #home-section{
     padding-top: 0;
     margin-top: 0;
 }
@@ -270,7 +271,7 @@ h6 {font-size: 16px;}
 #corner-bl {
     bottom: -5px;
     left: -5px;
-}
+}  
 
 
 
@@ -358,7 +359,7 @@ h6 {font-size: 16px;}
     padding: 5px 2rem;
 }
 
-.skills-content h4 {
+.skills-content h5 {
     margin-top: 0;
     text-align: center;
     color: #000;
@@ -511,7 +512,7 @@ h6 {font-size: 16px;}
         opacity: 0.5;
     }
 
-    .navbar ul.main-menu{
+    .navbar ul.main-menu {
         display: block;
         position: absolute;
         top: 0;
@@ -522,8 +523,8 @@ h6 {font-size: 16px;}
         height: 100vh;
         opacity: 0.9;
         padding: 30px;
-        transform: translateX(-500px);
-        transition: transform 0.5s ease-in-out;
+        transform: translateX(-500px); 
+        transition: transform 0.5s ease-in-out; 
       }
 
     .navbar ul.main-menu li{
@@ -547,7 +548,7 @@ h6 {font-size: 16px;}
         border-bottom: 0;
     }
 
-    .navbar ul.main-menu.show {
+    .navbar ul.main-menu.show{
         transform: translateX(-20px);
 
     }
